@@ -32,7 +32,7 @@ class hyperx extends Component {
             return(
                 <div>
                     <div className="container brand-tag border border-bottom-0 brand-div">
-                        <img src="assets/img/hyper-x-logo.png" alt="" className="ml-2 mt-2 float-left logo1" width="15%"/>
+                        <img src="assets/img/hyper-x-logo.png" alt="" className="ml-2 mt-1" width="15%"/>
                     </div>
                     <div className="container home-container">
                         <div className="row text-center border">
